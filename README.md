@@ -28,6 +28,7 @@ GET /pet/findByStatus — выборка по статусу
 ## Структура проекта
 petstore-tests
 |-- src
+|
 |  |-- api_client.py
 |  \-- data_generators.py
 |
