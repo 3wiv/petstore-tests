@@ -26,20 +26,21 @@ GET /pet/findByStatus — выборка по статусу
 - requests
 
 ## Структура проекта
+```
 petstore-tests
 |-- src
-|
-|  |-- api_client.py
-|  \-- data_generators.py
+|   |-- api_client.py
+|   \-- data_generators.py
 |
 |-- tests
-|  |-- test_pets.py
+|   |-- test_pets.py
 |
-|-- conftest.py  
-|-- .gitignore 
+|-- conftest.py
+|-- .gitignore
 |-- requirements.txt
 |-- pytest.ini
 \-- README.md
+```
 
 ## Установка и запуск
 
